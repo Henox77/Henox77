@@ -1,1 +1,2 @@
-**Selam Ben Henox** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="auto">
+**Selam Ben Henox** 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:979518098958856192)

@@ -7,10 +7,8 @@
 
 
 
-<div align="center">
-<a href="https://discord.gg/7700" title="Discord Profile"><img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:979518098958856192)](https://discord.com/users/:979518098958856192)
-theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/979518098958856192)](https://discord.com/users/979518098958856192)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Henox77&show_icons=true&theme=dracula&locale=en" alt="ly3ssia" /></p>

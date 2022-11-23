@@ -8,7 +8,8 @@
 
 
 <div align="center">
-<a href="https://discord.gg/7700" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/979518098958856192/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+<a href="https://discord.gg/7700" title="Discord Profile"><img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:979518098958856192)](https://discord.com/users/:979518098958856192)
+theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
 

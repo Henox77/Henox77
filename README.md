@@ -7,7 +7,8 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/249804061384114176)](https://discord.com/users/249804061384114176) theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)]
+[![Discord Presence](https://lanyard.cnrad.dev/api/249804061384114176)](https://discord.com/users/249804061384114176) 
+
 
 
 

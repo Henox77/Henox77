@@ -21,7 +21,7 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 <p align="left" dir="auto">
  <a href="https://instagram.com/olduremezler" rel="nofollow"><img src="https://camo.githubusercontent.com/7e5ea6500c36f6cca132b99adbf3f7283c00742c0b0cca9515f0099d292b0494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2532302d4443333137352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1118170862806384802)](https://discord.com/users/1118170862806384802) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/852854815071666177)](https://discord.com/users/852854815071666177) 
 
 
 

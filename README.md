@@ -20,7 +20,7 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 <p align="left">
      <a href="https://instagram.com/olduremezler" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852854815071666177)](https://discord.com/users/852854815071666177) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/385826968978980884)](https://discord.com/users/385826968978980884) 
 
 
 

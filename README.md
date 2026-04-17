@@ -35,7 +35,7 @@
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1462496241693753558)](https://discord.com/users/1462496241693753558)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/1462496241693753558)](https://discord.com/users/1462496241693753558)-->
 
 
 ---

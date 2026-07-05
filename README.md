@@ -1,69 +1,85 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93944142/196035315-bc0cb14d-b506-49e9-a842-6bcc46f79e7c.png" alt="Henox Cyber Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/Tony_Montana_Scarface_Banner.jpg" alt="Henox Scarface Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henox77&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Henox Views" />
+  <img src="https://komarev.com/ghpvc/?username=Henox77&label=PROFILE+VIEWS&color=c70039&style=for-the-badge" alt="Henox Views" />
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🏆 "The World Is Yours"
 
 <samp>
-⚡ **Merhaba! Ben Henox.** Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri üzerine yoğunlaşan bir yazılım geliştiriciyim. Kod yazarken yüksek performansa, temiz veritabanı yapılarına ve otomasyonlara odaklanmayı seviyorum.
+⚡ **Hola! Ben Henox.** Kod dünyasında kendi imparatorluğumu kuruyorum. Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri benim oyun alanım. Performans, hız ve temiz yapı benim için her şey.
 </samp>
 
-* 🛠️ Şu sıralar gelişmiş full-stack projeler, API entegrasyonları ve script paketleri üzerinde çalışıyorum.
-* 🧠 Sürekli yeni teknolojiler deneyimliyor ve arka plan mimarilerini optimize etmeyi seviyorum.
-* 💬 Benimle backend çözümleri, otomasyonlar veya veritabanı optimizasyonları hakkında konuşabilirsiniz.
+* ⚒️ **Şu An Ne Yapıyorum:** Gelişmiş API'lar, web uygulamaları ve ölçeklenebilir veritabanı çözümleri üzerinde çalışıyorum.
+* 💪 **Mottom:** Kimseye güvenme, sadece koduna güven. Her zaman daha fazlasını hedefle.
+* 💬 **İletişim:** Bir proje mi var? "Little Friend"ine merhaba de!
 
 ---
 
-## 🛠️ Teknolojiler & Yetenekler
+## 💥 "Little Friends" (Teknolojiler)
 
-### 💻 Geliştirme Dilleri & Çalışma Alanları
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   </a>
 </p>
 
-### 🧰 Araçlar & Editörler
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 💵 "You Need People Like Me" (GitHub İstatistikleri)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=false&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&hide=prs&count_private=true&theme=default" alt="Henox Github Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=0e75b6&ring=0e75b6" alt="Henox Github Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=false&title_color=c70039&icon_color=c70039&text_color=c9d1d9&bg_color=0d1117&hide=prs&count_private=true&theme=default" alt="Henox Github Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=c70039&ring=c70039" alt="Henox Github Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henox&layout=compact&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&theme=default" alt="Top Langs" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henox&layout=compact&title_color=c70039&icon_color=c70039&text_color=c9d1d9&bg_color=0d1117&theme=default" alt="Top Langs" />
 </p>
 
 ---
 
-## 🔮 Discord Durumu
+## 🔮 Canlı Discord Durumu
 
 <p align="center">
   <a href="https://discord.com/users/1462496241693753558">

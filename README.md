@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Henox&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" alt="Henox Premium Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henox77&label=PROFILE+VIEWS&color=7928ca&style=for-the-badge" alt="Henox Views" />
+  <img src="https://komarev.com/ghpvc/?username=Henox77&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Henox Views" />
 </p>
 
 ---
@@ -53,12 +53,12 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=false&title_color=7928ca&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117&hide=prs&count_private=true&theme=default" alt="Henox Github Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=7928ca&ring=7928ca" alt="Henox Github Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=false&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&hide=prs&count_private=true&theme=default" alt="Henox Github Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=0e75b6&ring=0e75b6" alt="Henox Github Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henox&layout=compact&title_color=7928ca&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117&theme=default" alt="Top Langs" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henox&layout=compact&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&theme=default" alt="Top Langs" />
 </p>
 
 ---
@@ -72,7 +72,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>

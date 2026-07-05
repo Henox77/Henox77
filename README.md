@@ -69,5 +69,5 @@
 
 ---
 <p align="center">
-  <font size="2" color="#555555">Automated Architecture & Design by Henox77</font>
+  <font size="2" color="#555555">hnX</font>
 </p>

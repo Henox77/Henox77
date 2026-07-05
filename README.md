@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" alt="Henox Premium Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/93944142/196035315-bc0cb14d-b506-49e9-a842-6bcc46f79e7c.png" alt="Henox Cyber Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@
 ## 🚀 Hakkımda
 
 <samp>
-⚡ **Merhaba! Ben Henox.** Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri üzerine çalışan bir yazılım geliştiriciyim. Kod yazarken performansa, temiz mimariye ve otomasyonlara odaklanmayı seviyorum.
+⚡ **Merhaba! Ben Henox.** Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri üzerine yoğunlaşan bir yazılım geliştiriciyim. Kod yazarken yüksek performansa, temiz veritabanı yapılarına ve otomasyonlara odaklanmayı seviyorum.
 </samp>
 
-* 🛠️ Şu sıralar gelişmiş full-stack projeler ve entegrasyonlar üzerinde fırtınalar estiriyorum.
-* 🧠 Sürekli yeni teknolojiler deneyimliyor ve sınırları zorluyorum.
-* 💬 Benimle projeler, otomasyonlar veya backend mimarileri hakkında konuşabilirsiniz.
+* 🛠️ Şu sıralar gelişmiş full-stack projeler, API entegrasyonları ve script paketleri üzerinde çalışıyorum.
+* 🧠 Sürekli yeni teknolojiler deneyimliyor ve arka plan mimarilerini optimize etmeyi seviyorum.
+* 💬 Benimle backend çözümleri, otomasyonlar veya veritabanı optimizasyonları hakkında konuşabilirsiniz.
 
 ---
 

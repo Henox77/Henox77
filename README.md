@@ -43,7 +43,7 @@
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox77&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Henox Github Stats"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox77&show_icons=true&hide_title=true&count_private=true&theme=radical&title_color=ff0000&icon_color=ff0000" alt="Henox Github Stats"/>
       <br/><br/>
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox77&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Github Streak"/>
     </td>
@@ -56,35 +56,12 @@
 
 ---
 
-<!-- LANGUAGES & TOOLS MATRIX (GRID STYLE) -->
+<!-- LANGUAGES & TOOLS (YAN YANA YENİ STİL) -->
 ## Kullandığım Diller & Teknolojiler
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="ASP.NET Core" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,py,nodejs,react,nextjs,vite,dotnet,tailwind,docker,postgres&theme=dark" alt="Henox Tech Stack" />
+</p>
 
 ---
 

@@ -11,9 +11,6 @@
   <a href="https://discord.com/users/1462496241693753558" target="_blank">
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=ff0000" alt="Discord Connect" />
   </a>
-  <a href="https://github.com/Henox77" target="_blank">
-    <img src="https://img.shields.io/badge/Developer_Profile-100000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Profile" />
-  </a>
 </p>
 
 ---

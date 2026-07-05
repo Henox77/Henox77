@@ -40,7 +40,7 @@
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Henox Github Stats"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox77&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Henox Github Stats"/>
       <br/><br/>
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Github Streak"/>
     </td>

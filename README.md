@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Henox77&label=EMPIRE+VIEWS&color=ff0000&style=for-the-badge" alt="Henox Views" />
+</p>
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/a0/27/3c/a0273c4ab272ef3c5976f852c2b19b0b.jpg" alt="Henox Tony Montana Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
-<!-- VISITOR COUNTER & BADGES -->
+<!-- DISCORD BADGE -->
 <p align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Henox77&label=Profile+views&color=ff0000&style=for-the-badge" alt="Henox Views" />
   <a href="https://discord.com/users/1462496241693753558" target="_blank">
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=ff0000" alt="Discord" />
   </a>
@@ -42,7 +45,7 @@
     <td width="55%" align="center" valign="middle">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox77&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Henox Github Stats"/>
       <br/><br/>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Github Streak"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox77&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Github Streak"/>
     </td>
     <td width="45%" align="right" valign="middle">
       <!-- TONY MONTANA VERTICAL CHARACTER IMAGE -->
@@ -63,10 +66,10 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL / DB" /></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" /></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></td>

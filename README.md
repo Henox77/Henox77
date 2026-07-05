@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0b/43/0e/0b430e2629c88b344b0d0318fc110014.jpg" alt="Henox Tony Montana Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.pinimg.com/1200x/a0/27/3c/a0273c4ab272ef3c5976f852c2b19b0b.jpg" alt="Henox Tony Montana Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- VISITOR COUNTER & BADGES -->
 <p align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Henox77&label=EMPIRE+VIEWS&color=ff0000&style=for-the-badge" alt="Henox Views" />
+  <img src="https://komarev.com/ghpvc/?username=Henox77&label=Profile+views&color=ff0000&style=for-the-badge" alt="Henox Views" />
   <a href="https://discord.com/users/1462496241693753558" target="_blank">
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=ff0000" alt="Discord" />
   </a>
@@ -15,25 +15,19 @@
 ---
 
 <!-- ABOUT ME GRID -->
-## 🚬 About Me
+## Hakkımda
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>"I always tell the truth. Even when I lie."</h3>
-      <samp>
-        ⚡ <b>Hola! Ben Henox.</b> Kod dünyasında kendi kurallarımı koyuyor ve kendi imparatorluğumu inşa ediyorum. Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri benim oyun alanım. Performans, hız ve temiz yapı benim için her şeydir.
-      </samp>
+      <br/>
+      <samp>ben henox</samp>
       <br/><br/>
-      <ul>
-        <li>💼 <b>Şu An Ne Yapıyorum:</b> Gelişmiş API entegrasyonları, web uygulamaları ve ölçeklenebilir sistem mimarileri.</li>
-        <li>💪 <b>Mottom:</b> "In this country, you gotta make the money first. Then when you get the money, you get the power."</li>
-        <li>🚀 <b>Odak Noktam:</b> Kusursuz veritabanı optimizasyonları ve modern kullanıcı deneyimleri.</li>
-      </ul>
+      <p>Modern web teknolojileri, full-stack dinamik sistemler ve backend mimarileri üzerine yoğunlaşan bir yazılım geliştiriciyim. Performans, temiz kod yapısı ve sistem otomasyonları üzerine çalışıyorum.</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- THE WORLD IS YOURS BLIMP GIF -->
-      <img src="https://media.tenor.com/RGrwV5LSrXQAAAAM/the-world-is-yours-blimp.gif" width="180px" style="border-radius: 8px; border: 2px solid #ff0000;" alt="The World Is Yours" />
+      <img src="https://media.tenor.com/RGrwV5LSrXQAAAAM/the-world-is-yours-blimp.gif" width="160px" style="border-radius: 8px; border: 1px solid #ff0000;" alt="Scarface Blimp" />
     </td>
   </tr>
 </table>
@@ -41,30 +35,26 @@
 ---
 
 <!-- STATS & CHARACTER GRID -->
-## 📊 Empire Stats & Performance
+## GitHub İstatistiklerim
 
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=false&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117&hide=prs&count_private=true&theme=default" alt="Henox Stats" width="100%" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Henox&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Henox Github Stats"/>
       <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Streak" width="100%" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Henox&theme=tokyonight&background=0d1117&fire=ff0000&ring=ff0000" alt="Henox Github Streak"/>
     </td>
     <td width="45%" align="right" valign="middle">
-      <!-- TONY MONTANA SILHOUETTE -->
-      <img src="https://e7.pngegg.com/pngimages/75/47/png-clipart-tony-montana-scarface-the-world-is-yours-crime-film-phonograph-record-others-miscellaneous-angle-thumbnail.png" width="85%" style="filter: drop-shadow(0px 0px 8px #ff0000); padding-right: 15px;" alt="Tony Montana" />
+      <!-- TONY MONTANA VERTICAL CHARACTER IMAGE -->
+      <img src="https://i.imgur.com/HfAwBF6.png" width="85%" style="border-radius: 8px; border: 1px solid #ff0000;" alt="Tony Montana" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henox&layout=compact&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117&theme=default" alt="Top Langs" />
-</p>
-
 ---
 
 <!-- LANGUAGES & TOOLS MATRIX (GRID STYLE) -->
-## 🧰 My Little Friends (Tech Stack)
+## Kullandığım Diller & Teknolojiler
 
 <table align="center">
   <tr>
@@ -96,7 +86,7 @@
 ---
 
 <!-- LIVE DISCORD STATUS -->
-## 🔮 Live Presence
+## Discord
 
 <p align="center">
   <a href="https://discord.com/users/1462496241693753558">
@@ -105,7 +95,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <font size="3" color="#ff0000"><b>THE WORLD IS YOURS... 🌐</b></font>
-</p>
